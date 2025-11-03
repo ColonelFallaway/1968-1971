@@ -1,5 +1,5 @@
 body {
-    background: linear-gradient(black,rgba(0, 0, 0, 0.909), rgba(0, 0, 0, 0.74),rgba(0, 0, 0, 0.74));
+    background: black;
     text-align:center;
     font-size:larger;
     margin: 30%;
@@ -7,7 +7,7 @@ body {
 }
 #p1 {
     color: beige;
-    font-size: 120%;
+    font-size: 100%;
     text-align: left;
     position: absolute;
     left: 4%;
@@ -15,7 +15,7 @@ body {
 }
 #p2 {
     color: beige;
-    font-size: 120%;
+    font-size: 100%;
     text-align: left;
     position: absolute;
     left:25%;
@@ -24,7 +24,7 @@ body {
 }
 #p3{
     color: beige;
-    font-size: 120%;
+    font-size: 100%;
     text-align: right;
     position: absolute;
     right:25%;
@@ -32,7 +32,7 @@ body {
 }
 #p4{
       color: beige;
-    font-size: 120%;
+    font-size: 100%;
     text-align: right;
     position: absolute;
     right:4%;
