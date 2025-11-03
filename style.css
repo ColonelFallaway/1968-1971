@@ -1,10 +1,74 @@
 body {
-    background: linear-gradient(rgb(5, 187, 5), green, green);
+    background: linear-gradient(black,rgba(0, 0, 0, 0.909), rgba(0, 0, 0, 0.74));
     text-align:center;
     font-size:larger;
-    color:rgba(0, 0, 0, 0);
     margin: 30%;
+    color: beige;
 }
-h1 {
-    color
+#p1 {
+    color: beige;
+    font-size: 120%;
+    text-align: left;
+    position: absolute;
+    left: 4%;
+    width: 20%;
+}
+#p2 {
+    color: beige;
+    font-size: 120%;
+    text-align: left;
+    position: absolute;
+    left:25%;
+    width: 17%;
+
+}
+#p3{
+    color: beige;
+    font-size: 120%;
+    text-align: right;
+    position: absolute;
+    right:25%;
+    width: 18%;
+}
+#p4{
+      color: beige;
+    font-size: 120%;
+    text-align: right;
+    position: absolute;
+    right:4%;
+    width: 18%;
+}
+#div1{
+    text-align: right;
+    color: beige;
+    font-size: 220%;
+    position:absolute;
+left: 10%;
+bottom: 30%;
+}
+#div2{
+    text-align: left;
+    color: beige;
+    font-size: 220%;
+    position:absolute;
+right: 10%;
+bottom: 30%;
+}
+#div3{
+    font-size: 220%;
+text-align: left;
+color: beige;
+left: 30%;
+bottom: 30%;
+position: absolute;
+}
+#div4{font-size: 220%;
+text-align: right;
+color: beige;
+right: 30%;
+bottom: 30%;
+position: absolute;}
+hr{
+    width: 100px;
+    left: 0;
 }
