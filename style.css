@@ -12,6 +12,8 @@ body {
     position: absolute;
     left: 4%;
     width: 20%;
+    nav-down: current;
+    bottom: -55px;
 }
 #p2 {
     color: beige;
@@ -37,6 +39,14 @@ body {
     position: absolute;
     right:4%;
     width: 18%;
+    
+
+}
+h1{
+    position:static;
+    text-align: center;
+    bottom: 30%;
+    
 }
 
 
@@ -70,7 +80,32 @@ color: beige;
 right: 30%;
 bottom: 30%;
 position: absolute;}
-hr{
-    width: 100px;
-    left: 0;
+
+#sf{
+ text-align: center;
+ color: beige;
+ right: 43%;
+ position: absolute;
+ width: 15%;
+}
+#buttons{
+    background-color: burlywood;
+    position: fixed;
+    right: 1%;
+    bottom: 95%;
+    column-width: 5%;
+}
+#bild1 {
+    border: 10px beige solid;
+    position: absolute;
+    right:34%;
+    scale: 22%;
+    bottom: 12%;
+}
+#bild2 {
+     border: 25px beige solid;
+    position: absolute;
+    left:18%;
+    scale: 10%;
+    bottom: -20px;
 }
